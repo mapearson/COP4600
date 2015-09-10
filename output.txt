@@ -1,0 +1,11 @@
+total 42
+-rw-r--r--   1 mpearson class          0 Sep 10 12:33 output.txt
+-rwxr-xr-x   1 mpearson class       7884 Sep 10 12:32 hw02-forkls
+-rw-r--r--   1 mpearson class        480 Sep 10 12:32 hw02-forkls.c
+-rw-------   1 mpearson class        426 Mar 17  2014 Main.java
+-rw-------   1 mpearson class       1239 Mar 17  2014 Node.java
+-rw-------   1 mpearson class       2238 Mar 17  2014 KDTree.java
+-rw-------   1 mpearson class        397 Sep 11  2013 main.cpp
+Parent about to fork
+Parent waiting for child [PID = 14896] to complete
+Child has completed
